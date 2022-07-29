@@ -1,15 +1,26 @@
-.carousel-item-height {
-    height: 450px;
-}
-.course-img {
-    width: 400px;
-}
-.join-us-box-height {
+/* .carousel-item-height {
+    height: 250px;
+} */
+/* .join-us-box-height {
     height: 170px;
-}
-.accordian-container-width {
+} */
+/* .accordian-container-width {
     width: 60%;
-}
+} */
 .company-img-width {
     width: 95px;
+}
+.course-title {
+    font-size: 18px;
+    font-weight: 700;
+}
+.course-body {
+    font-size: 14px;
+}
+.course-price {
+    font-size: 14px;
+    font-weight: 700;  
+}
+.footer-address {
+    font-size: 15px;
 }
